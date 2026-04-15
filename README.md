@@ -13,6 +13,6 @@ Note: Most of the changes here are tied to the gargoyle as it felt less visually
 
 - Created GargoyleParticleTrigger.cs script that creates a burst particle effect when a player is getting close to an enemy (serves as another warning beyond the glow)
 
-
+- Added a stone sliding sfx to the Gargoyle, similar to the particle effect, where it only plays once a player reaches a distance threshold.
 
 
